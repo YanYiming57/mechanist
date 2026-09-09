@@ -4,7 +4,8 @@ With the rapid development of artificial intelligence, current AI tools can gene
 
 ## Learning programming helps designers understand underlying logic and raises their creative ceiling.
 
-According to "How AI Programming Reshapes Designers’ Workflow", designers with coding knowledge can reduce project revision rates by 67% when collaborating with developers, maximising the preservation of original design ideas. This demonstrates the great necessity of learning programming for designers.**This is why designers should learn programming.**
+According to "How AI Programming Reshapes Designers’ Workflow", designers with coding knowledge can reduce project revision rates by 67% when collaborating with developers,
+ maximising the preservation of original design ideas. This demonstrates the great necessity of learning programming for designers.**This is why designers should learn programming.**
 
 ## Learning programming enables better communication with development teams and reduces creative loss.
 
